@@ -1,0 +1,19 @@
+Beamlytics Dashboard Report: **_A Look into Key Performance Indicators_**
+
+This blog post will provide a breakdown of the Beamlytics dashboard report. The report contains a number of KPIs (key performance indicators) that provide insights into important metrics such as total customers, revenue by segment, customer churn, conversion rate, and total visitors.
+
+**Connecting to BigQuery and Looker Components**
+
+Beamlytics leverages Looker Studio to create data visualizations. Looker Studio is a business intelligence tool that allows users to create dashboards and reports from data sources such as BigQuery. BigQuery is a data warehouse offered by Google Cloud Platform that stores large datasets.
+
+In order to create the Beamlytics dashboard report, the user would have needed to establish a connection between Looker Studio and BigQuery. This can be done through the Looker Studio interface. Once the connection is established, users can then select the specific metrics they want to include in their dashboard report.
+
+**What the KPI Cards Show**
+
+The Beamlytics dashboard report contains a number of KPI cards that provide insights into various aspects of the business. Here's a breakdown of what each KPI card shows:
+
+- **Total Customers:** This card displays the total number of customers. In this instance, the dashboard shows 601 total customers.
+- **Revenue by Segments:** This section provides a breakdown of revenue by Ecommerce and by Transaction. It reveals that Ecommerce revenue is $75,317,974.00 and revenue by transaction is $152,192,712.00.
+- **Customer Churn:** This card displays the customer churn rate, which is 0.07 or 7%. It also shows the total number of customers churned (4,363) during the selected date range.
+- **Conversion Rate:** This card shows the total conversion rate, which is 53.84%. The conversion rate is the percentage of visitors to your website who take a desired action, such as making a purchase.
+- **Total Visitors:** This card displays the total number of visitors to the website, which is 614 for the date range selected.
