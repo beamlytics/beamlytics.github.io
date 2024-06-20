@@ -1,3 +1,10 @@
+---
+title: "Beamlytics Dashboard Report: A Look into Key Performance Indicators"
+date: 2024-06-12
+weight: 1
+show_call_box: true
+---
+
 Beamlytics Dashboard Report: **_A Look into Key Performance Indicators_**
 
 This blog post will provide a breakdown of the Beamlytics dashboard report. The report contains a number of KPIs (key performance indicators) that provide insights into important metrics such as total customers, revenue by segment, customer churn, conversion rate, and total visitors.
