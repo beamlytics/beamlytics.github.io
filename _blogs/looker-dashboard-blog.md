@@ -1,3 +1,9 @@
+---
+title: "Beamlytics Dashboard Report: Understanding Your Business Performance"
+date: 2024-06-28
+weight: 1
+show_call_box: true
+---
 **Beamlytics Dashboard Report: Understanding Your Business Performance**
 
 This blog post dives into the Beamlytics dashboard report, a handy tool for visualizing key business metrics. These metrics, called KPIs (key performance indicators), offer valuable insights into your customer base, revenue streams, and overall website performance.
