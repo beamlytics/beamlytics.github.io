@@ -4,8 +4,6 @@ date: 2024-06-12
 weight: 1
 show_call_box: true
 ---
-**Automate Your BigQuery ML Workflows with an MLOps Pipeline**
-
 Author :<a href="https://www.linkedin.com/in/nishana-hafsath-kt-384a05238/"> **Nishana Hafsath KT**</a><br>
 >Nishana works as a data engineer in Beamlytics. She has created sales forecasting and demand forecasting models as part of our product <a href="/products/product-beamlytics-lens"> **Beamlytics Lens** </a>. Please reach out to Nishana if you want guidance on automating your MLOps pipeline.  
 >>Email : <a href="mailto:nishana@beamlytics.com">Nishana@beamlytics.com</a>
