@@ -9,8 +9,8 @@ logo:
   mobile_height: "200px"
   mobile_width: "200px"
   desktop: "images/logo/Beamlytics-logo.png"
-  desktop_height: "500px"
-  desktop_width: "500px"
+  desktop_height: "300px"
+  desktop_width: "300px"
 
 home: 
   limit_services: 3
