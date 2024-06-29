@@ -6,8 +6,8 @@ google_analytics: "G-RD9QR7GHB9"
 
 logo:
   mobile: "images/logo/Beamlytics-logos_transparent.png"
-  mobile_height: "200px"
-  mobile_width: "200px"
+  mobile_height: "250px"
+  mobile_width: "250px"
   desktop: "images/logo/Beamlytics-logos_transparent.png"
   desktop_height: "100px"
   desktop_width: "100px"
