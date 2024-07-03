@@ -5,7 +5,7 @@ weight: 1
 show_call_box: true
 ---
 Author :<a href="https://www.linkedin.com/in/kavya-k-420b6524a/"> **Kavya K**</a><br>
->Kavya works as a data engineer in Beamlytics. She has created sales forecasting and demand forecasting models as part of our product <a href="/products/product-beamlytics-lens"> **Beamlytics Lens** </a>. Please reach out to Kavya if you want guidance on understanding dashboard using looker.  
+>Kavya works as a data engineer in Beamlytics. She has worked on developing customer churn model and looker dashboards as part of our product <a href="/products/product-beamlytics-lens"> **Beamlytics Lens** </a>. Please reach out to Kavya if you want guidance on understanding dashboard using looker.  
 >>Email : <a href="mailto:kavya@beamlytics.com">kavya@beamlytics.com</a>
 
 This blog post dives into the Beamlytics dashboard report, a handy tool for visualizing key business metrics. These metrics, called KPIs (key performance indicators), offer valuable insights into your customer base, revenue streams, and overall website performance.
