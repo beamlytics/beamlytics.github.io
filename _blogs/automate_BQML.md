@@ -58,7 +58,7 @@ While Cloud Functions offer flexibility and integration with various Google Clou
 
 These issues add complexity to the workflow, making it difficult to maintain and manage over time.
 
-###
+
 
 ### **Benefits of BigQuery Scheduler**
 
@@ -84,11 +84,6 @@ BigQuery Scheduler is a feature that allows you to run SQL queries on a schedule
     - **Destination:** Choose where the results of the query will be stored. This can be a new or existing table in BigQuery.
     - **SQL Query:** This is where you’ll enter the SQL query that you want to automate.
 
-###
-
-###
-
-###
 
 ### **Automating the Machine Learning Model**
 
@@ -116,7 +111,6 @@ To ensure that each step runs in the correct order, leverage the scheduling opti
 
 \[[Cloud SkillBoost](https://www.cloudskillsboost.google/course_templates/684/labs/481169)\]
 
-###
 
 ### **Conclusion**
 
